@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../IFMS/.idea/IFMS.iml" filepath="$PROJECT_DIR$/../IFMS/.idea/IFMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ItsPapers-expense-manager/.idea/ItsPapers-expense-manager.iml" filepath="$PROJECT_DIR$/../ItsPapers-expense-manager/.idea/ItsPapers-expense-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/P-and-L.iml" filepath="$PROJECT_DIR$/.idea/P-and-L.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../imes/.idea/imes.iml" filepath="$PROJECT_DIR$/../imes/.idea/imes.iml" />
+    </modules>
+  </component>
+</project>
